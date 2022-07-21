@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,UAEE,kBAAmB,CACnB,gBACF,CAEA,MACE,kBACF","file":"style.6d8ecc9c.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n.regBlock {\n  /* margin: 20px 0; */\n  margin-bottom: 20px;\n  padding-bottom: 0;\n}\n\n.form {\n  margin-bottom: 10px;\n}\n"]}
